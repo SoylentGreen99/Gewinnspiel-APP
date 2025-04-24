@@ -1,0 +1,8 @@
+[
+  {
+    "error": "Fehler beim Laden von gewinnspielsammlung.at: HTTPSConnectionPool(host='www.gewinnspielsammlung.at', port=443): Max retries exceeded with url: /aktuelle-gewinnspiele (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ed3de83cce0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"
+  },
+  {
+    "error": "Fehler beim Laden von gewinnspielverzeichnis.at: HTTPSConnectionPool(host='www.gewinnspielverzeichnis.at', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ed3de84a0a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"
+  }
+]
